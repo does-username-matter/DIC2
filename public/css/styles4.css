@@ -1,0 +1,71 @@
+
+body{
+  margin: 0;
+}
+
+
+.nav-padding{
+  padding-top: 0;
+  padding-bottom:0;
+}
+
+
+.navbar-background-custom{
+  background-color: #c3e7eb;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/* #ECF8F9 */
+
+.nav-college-name{
+  font-size: 1.75em;
+}
+
+
+.navbar-item-custom{
+
+  font-size: 1.25em;
+}
+
+.navbar-item-custom a{
+  color: #1C3879;
+}
+
+.navbar-item-custom a:hover{
+  color: #F2BE22;
+}
+
+
+.banner{
+  width: 100%;
+  height: 35rem;
+}
+
+
+.faculty-grid{
+  margin-top: 7%;
+}
+
+
+
+.footer {
+  height: 14rem;
+  padding: 2rem;
+  background-color: #c3e7eb;
+  text-align: center;
+  color: #FFFFFF;
+bottom: 0;
+}
+
+.footerelement{
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #1C3879;
+margin: 30px;
+}
+
+.footerelement:hover{
+
+color: #F2BE22;
+}

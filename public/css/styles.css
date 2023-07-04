@@ -1,0 +1,141 @@
+
+body{
+  margin: 0;
+}
+
+
+.nav-padding{
+  padding-top: 0;
+  padding-bottom:0;
+}
+
+
+.navbar-background-custom{
+  background-color: #c3e7eb;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/* #ECF8F9 */
+
+.nav-college-name{
+  font-size: 1.75em;
+}
+
+
+.navbar-item-custom{
+
+  font-size: 1.25em;
+}
+
+.navbar-item-custom a{
+  color: #1C3879;
+}
+
+.navbar-item-custom a:hover{
+  color: #F2BE22;
+}
+
+
+.banner{
+  width: 100%;
+  height: 35rem;
+}
+
+
+/* Features Section */
+#features{
+  padding:7% 15%;
+  background-color: #ECF8F9;
+
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.feature-heading{
+  color: #8f8f8f;
+}
+
+.icon{
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:#0E2954;
+}
+
+/* FEST */
+
+#flip
+{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+
+#panel {
+text-align: center;
+  padding: 50px;
+  display:none;
+}
+
+.img-fest{
+  margin: 40px;
+  width:420px;
+  height:500px;
+}
+
+#panel li{
+  font-size: 2em;
+
+}
+
+/* TABLE */
+.placement-background{
+  padding:6% 7%;
+background-color: #ECF8F9;
+
+}
+
+table{
+  margin: 4%;
+}
+
+.placement-heading{
+padding-bottom: 2%;
+  color: #1C3879;
+}
+
+/* FORMS START */
+
+.custom-form{
+  margin:4%;
+
+  padding: 4%;
+}
+
+
+
+/* FOOTER */
+.footer {
+  height: 14rem;
+  padding: 2rem;
+  background-color: #c3e7eb;
+  text-align: center;
+  color: #FFFFFF;
+bottom: 0;
+}
+
+.footerelement{
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #1C3879;
+margin: 30px;
+}
+
+.footerelement:hover{
+
+color: #F2BE22;
+}
